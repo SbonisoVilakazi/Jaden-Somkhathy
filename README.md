@@ -8,7 +8,25 @@
 
 <br/>
 
-<a href="https://sbonisovilakazi.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C5CFC?style=for-the-badge&logo=vercel&logoColor=E9EBF1" /></a> <a href="https://linkedin.com/in/sboniso-vilakazi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=7C5CFC" /></a> <a href="https://twitter.com/Ivyjade_203" target="_blank"><img src="https://img.shields.io/badge/Twitter-0B0E14?style=for-the-badge&logo=x&logoColor=7C5CFC" /></a> <a href="https://instagram.com/ivyjade_203" target="_blank"><img src="https://img.shields.io/badge/Instagram-0B0E14?style=for-the-badge&logo=instagram&logoColor=7C5CFC" /></a> <a href="https://wa.me/27655197203" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0B0E14?style=for-the-badge&logo=whatsapp&logoColor=7C5CFC" /></a>
+<a href="https://sbonisovilakazi.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C5CFC?style=for-the-badge&logo=vercel&logoColor=E9EBF1" />
+</a>
+
+<a href="https://linkedin.com/in/sboniso-vilakazi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=7C5CFC" />
+</a>
+
+<a href="https://twitter.com/Ivyjade_203" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-0B0E14?style=for-the-badge&logo=x&logoColor=7C5CFC" />
+</a>
+
+<a href="https://instagram.com/ivyjade_203" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0B0E14?style=for-the-badge&logo=instagram&logoColor=7C5CFC" />
+</a>
+
+<a href="https://wa.me/27655197203" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-0B0E14?style=for-the-badge&logo=whatsapp&logoColor=7C5CFC" />
+</a>
 
 </div>
 
@@ -30,16 +48,21 @@ role: "ICT Student · Web Developer · Front-End Designer"
 studying_at: "Durban University of Technology"
 degree: "BSc Information & Communication Technology"
 year: "Final Year"
+
 currently:
   - "🖥️ Building a custom Restaurant Management System for a client"
   - "🏥 Building and improving real-world web applications"
   - "🎮 Exploring game development on the side"
+
 fun_fact: "I turn ideas into interfaces — then make the interfaces move."
 ```
 
 </td>
+
 <td width="40%" align="center">
-  <img src="https://img.icons8.com/3d-fluency/200/laptop-coding.png" width="180"/>
+
+<img src="https://img.icons8.com/3d-fluency/200/laptop-coding.png" width="180"/>
+
 </td>
 </tr>
 </table>
@@ -61,7 +84,10 @@ fun_fact: "I turn ideas into interfaces — then make the interfaces move."
 ### 📊 GitHub Stats
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sbonisovilakazi&show_icons=true&count_private=true&hide_border=true&bg_color=0B0E14&title_color=7C5CFC&icon_color=9377FF&text_color=E9EBF1&ring_color=7C5CFC"/>
+
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbonisovilakazi&layout=donut&hide_border=true&bg_color=0B0E14&title_color=7C5CFC&text_color=E9EBF1"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbonisovilakazi&hide_border=true&background=0B0E14&stroke=262C3B&ring=7C5CFC&fire=9377FF&currStreakLabel=E9EBF1&sideLabels=8B93A6&dates=5C6478&currStreakNum=E9EBF1&sideNums=E9EBF1"/>
 
@@ -99,29 +125,40 @@ fun_fact: "I turn ideas into interfaces — then make the interfaces move."
 
 <table width="100%">
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 **🏥 DUT School Clinic Booking System**
 
-Problem-solving platform built for Durban University of Technology — scored **98/100**. Streamlines appointment booking between students and the campus clinic.
+A problem-solving platform built for Durban University of Technology. The system streamlines appointment booking between students and the campus clinic.
+
+**Result:** 98/100
 
 `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 **🍽️ Restaurant Management System**
 
-A custom-built management platform developed for a private client — covering orders, menu management, and day-to-day restaurant operations.
+A custom-built management platform developed for a private client, covering orders, menu management, and day-to-day restaurant operations.
 
 `In Progress` `Client Project`
 
 </td>
+
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
-<a href="https://sbonisovilakazi.github.io/portfolio/gallery.html"><img src="https://img.shields.io/badge/View%20All%20Projects-7C5CFC?style=for-the-badge&logoColor=white"/></a>
+
+<a href="https://sbonisovilakazi.github.io/portfolio/gallery.html">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-7C5CFC?style=for-the-badge&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
@@ -130,17 +167,8 @@ A custom-built management platform developed for a private client — covering o
 
 <img src="https://komarev.com/ghpvc/?username=sbonisovilakazi&style=flat&color=7C5CFC&label=Profile+Views" />
 
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,50:151B26,100:0B0E14&height=120&section=footer" width="100%"/>
 
 </div>
-```
-
-### ⚠️ One important thing before you paste it
-
-I assumed your **new GitHub username is `sbonisovilakazi`** and your LinkedIn is `sboniso-vilakazi`.
-
-If your actual new GitHub username is different, **don't paste this yet**. Tell me the exact username you changed it to, and I'll adjust every link.
-
-Also, I left your **Twitter, Instagram and WhatsApp** links untouched because changing your GitHub name doesn't automatically mean those accounts should change.
-
-After that, we can make the README **much more professional**—not just replacing “Jaden” with “Sboniso,” but redesigning the whole profile so it looks like a serious final-year developer portfolio.

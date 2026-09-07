@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:151B26,100:7C5CFC&height=220&section=header&text=Sboniso%20Vilakazi&fontSize=48&fontColor=E9EBF1&animation=fadeIn&fontAlignY=38&desc=ICT%20Student%20%7C%20Web%20Developer%20%7C%20Front-End%20Designer&descSize=18&descAlignY=58&descColor=8B93A6" width="100%"/>
 
 <a href="https://sbonisovilakazi.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=Building+clean%2C+functional+digital+experiences;Final-Year+ICT+Student+%40+Durban+University+of+Technology;Building+real-world+web+applications;Open+to+freelance+%26+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=22&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=Building+clean%2C+functional+digital+experiences;3rd-Year+ICT+Student+%40+Durban+University+of+Technology;Building+real-world+web+applications;Open+to+freelance+%26+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,7 +47,7 @@ name: "Sboniso Vilakazi"
 role: "ICT Student · Web Developer · Front-End Designer"
 studying_at: "Durban University of Technology"
 degree: "BSc Information & Communication Technology"
-year: "Final Year"
+year: "3rd Year"
 
 currently:
   - "🖥️ Building a custom Restaurant Management System for a client"
